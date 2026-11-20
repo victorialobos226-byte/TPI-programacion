@@ -137,15 +137,12 @@ Países por continente:
 
 ## Participación de los integrantes
 
-- **[Integrante 1 - Nombre y Apellido]**: [Describir aporte: ej. lógica de dominio, validaciones, manejo de CSV, pruebas].
-- **[Integrante 2 - Nombre y Apellido]**: [Describir aporte: ej. interfaz de consola, documentación, armado del video].
-
-> Completar con los datos reales del equipo antes de entregar.
+- **Integrante 1 - Victoria Lobos**: Describir aporte: todo.
 
 ## Enlaces obligatorios
 
-- **Repositorio del proyecto:** [Pegar enlace al repositorio de GitHub]
-- **Video demostrativo (público):** [Pegar enlace de YouTube/Vimeo/Drive con permisos públicos]
+- **Repositorio del proyecto:** https://github.com/victorialobos226-byte/TPI-programacion
+- **Video demostrativo (público):** 
 - **Documentación PDF:** incluida en este repositorio como `documentacion.pdf` (y en el ZIP de entrega).
 
 ## Contenido del ZIP de entrega
